@@ -3,11 +3,14 @@
 A simple Java project demonstrating Object-Oriented Programming fundamentals.
 
 ## Structure
-src/
-  └── main/
-    └── java/
-      ├── Main.java
-      └── Student.java
+
+java-oop-basics/
+├── src/
+│ └── main/
+│ └── java/
+│ ├── Main.java # Driver class with main() method
+│ └── Student.java # Student class implementation
+└── README.md # Project documentation
 
 ## How to Run
 1. Clone this repository
