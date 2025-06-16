@@ -1,7 +1,3 @@
-Here’s a cleaned-up and properly formatted version of your `README.md` for the **Java OOP Basics** project:
-
----
-
 ### 📄 `README.md`
 
 ```markdown
