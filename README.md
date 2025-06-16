@@ -63,7 +63,3 @@ java-oop-basics/
 
 * Java 8 or later
 
-```
-
-Let me know if you'd like this version to include Gradle/Maven support, screenshots, or GitHub badge integration.
-```
